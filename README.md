@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SinghAjay-28
 - 👀 I’m interested in backend programing to play with background events of the application.
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Email me st at.ajish0000@gmail.com
 - 😄 Pronouns: AJ
 - ⚡ Fun fact: I am dreaming for heading to US and collaborate with giants like microsoft and apple.
